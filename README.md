@@ -1,9 +1,19 @@
 ## About me
 
-- ⏳ Pursuing my Computer Science BSc at Universidade Federal de São Paulo.
-- ✅ Bachelor in Science and Techolgy at @unifesp.
-- 💼 Working as Intern at FiBrasil.
-- 📚 Learning about DevOps, Cloud, Systems Programming, Backend or what I'm curious!
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBonani&hide_progress=true">
+    </td>
+    <td>
+      ⏳ Pursuing my Computer Science BSc at Universidade Federal de São Paulo.<br>
+      ✅ Bachelor in Science and Technology at @unifesp.<br>
+      💼 Working as Intern at FiBrasil.<br>
+      📚 Learning about DevOps, Cloud, Systems Programming or what I'm curious!<br>
+    </td>
+  </tr>
+</table>
+
 
 ## Skills
 
@@ -32,8 +42,3 @@
 ![Pipelines](https://img.shields.io/badge/-Pipelines-333333?style=flat&logo=githubactions)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 
-<br/>
-
-<a href="https://github.com/CaioBonani" title="Caio profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBonani&theme=dracula&show_icons=true" />
-</a>
