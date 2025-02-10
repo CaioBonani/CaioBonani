@@ -6,10 +6,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBonani&hide_progress=true">
     </td>
     <td>
-      ⏳ Pursuing my Computer Science BSc at Universidade Federal de São Paulo.<br>
+      ⏳ Computer Science BSc. at Universidade Federal de São Paulo.<br>
       ✅ Bachelor in Science and Technology at @unifesp.<br>
       💼 Working as Intern at FiBrasil.<br>
-      📚 Learning about DevOps, Cloud, Systems Programming or what I'm curious!<br>
+      📚 Learning DevOps, Cloud, Systems Programming or what I'm curious!<br>
     </td>
   </tr>
 </table>
