@@ -8,7 +8,7 @@
     <td>
       ⏳ Computer Science BSc. at Universidade Federal de São Paulo.<br>
       ✅ Bachelor in Science and Technology at @unifesp.<br>
-      💼 Working as Intern at FiBrasil.<br>
+      💼 Working as System Analyst at FiBrasil.<br>
       📚 Learning DevOps, Cloud, Systems Programming or what I'm curious!<br>
     </td>
   </tr>
